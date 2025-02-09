@@ -8,3 +8,8 @@ These courses start off with basic Bash commands. Using the terminal, you will l
 Next, you will learn how to create and use a relational database with PostgreSQL, a database management system, and SQL, the language of these databases.
 
 Finally, you will learn Git, the version control system, an essential tool of every developer.
+
+World Cup Database
+This is one of the required projects to earn your certification.
+
+For this project, you will create a Bash script that enters information from World Cup games into PostgreSQL, then query the database for useful statistics.
